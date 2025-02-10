@@ -16,8 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 //--------------------------------------------------------------------------------------
+[text](README.md)
+![text](<assets/icons/samples/Screenshot 2025-02-10 155216.png>)
+![text](<assets/icons/samples/Screenshot 2025-02-10 155223.png>)
+![text](<assets/icons/samples/Screenshot 2025-02-10 155229.png>)
 
-flutter_svg: 
- assets:
-    - assets/images/
-    - assets/icons/
+![alt text](assets/icons/samples/intro.gif)

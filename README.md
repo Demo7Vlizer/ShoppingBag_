@@ -37,13 +37,15 @@ A modern, feature-rich e-commerce Flutter application with a clean and intuitive
 ## App Preview
 
 ### Main App Demo
-![App Demo](assets/images/ShoppingBagIntro.gif)
+<div align="center">
+  <img src="assets/images/ShoppingBagIntro.gif" width="300" alt="App Demo"/>
+</div>
 
 ### Screenshots
 <p float="left">
-  <img src="assets/icons/samples/Screenshot 2025-02-10 155216.png" width="250" />
+  <img src="assets/icons/samples/Screenshot 2025-02-10 155216.png" width="262" />
   <img src="assets/icons/samples/Screenshot 2025-02-10 155223.png" width="250" />
-  <img src="assets/icons/samples/Screenshot 2025-02-10 155229.png" width="250" />
+  <img src="assets/icons/samples/Screenshot 2025-02-10 155229.png" width="253" />
 </p>
 
 ## Technologies Used
